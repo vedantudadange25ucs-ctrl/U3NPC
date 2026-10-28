@@ -1,11 +1,11 @@
-# NPC Assignment 4: DHCP Configuration and Network Setup
+﻿# NPC Assignment 4: DHCP Configuration and Network Setup
 
 **Course / Module:** Unit 4: DHCP Configuration & Network Setup  
 **Subject:** Network Protocols and Communication (NPC)  
-**Author:** Shubham Shinde  
-**PRN:** 2125UCSM1042  
+**Author:** Vedant Udadange  
+**PRN:** 2125UCSM1085  
 **Software:** Cisco Packet Tracer 9.0.1  
-**Repository:** [Configure-DHCP-and-Set-Up-a-Network-Using-Cisco-Packet-Tracer](https://github.com/ShubhamShinde148/Configure-DHCP-and-Set-Up-a-Network-Using-Cisco-Packet-Tracer)  
+**Repository:** [U3NPC](https://github.com/vedantudadange25ucs-ctrl/U3NPC)  
 
 ---
 
@@ -135,8 +135,8 @@ Successful ping responses from PC0 to Server0, PC1, and PC2 (0% packet loss):
 ---
 
 ## 9. GitHub Repository
-- **Repository URL:** [https://github.com/ShubhamShinde148/Configure-DHCP-and-Set-Up-a-Network-Using-Cisco-Packet-Tracer](https://github.com/ShubhamShinde148/Configure-DHCP-and-Set-Up-a-Network-Using-Cisco-Packet-Tracer)
+- **Repository URL:** [https://github.com/vedantudadange25ucs-ctrl/U3NPC](https://github.com/vedantudadange25ucs-ctrl/U3NPC)
 - **Clone Command:**
   ```bash
-  git clone https://github.com/ShubhamShinde148/Configure-DHCP-and-Set-Up-a-Network-Using-Cisco-Packet-Tracer.git
+  git clone https://github.com/vedantudadange25ucs-ctrl/U3NPC.git
   ```
